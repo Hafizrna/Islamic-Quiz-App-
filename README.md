@@ -1,2 +1,2 @@
 # Islamic-Quiz-App-
-Here is the Islamic Quiz app which i make for practice as front end developer. 
+Here is the clone of Islamic Quiz App which is developed by AbdulRehman for improving his front end skills. 
